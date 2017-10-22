@@ -13,7 +13,7 @@ const __ComponentName__ = () => (
   </div>
 );
 /* ENDIF *//* IF class*/
-class __ComponentName__ extends React.Component {
+class __ComponentName__ extends Component {
   render = () => (
     <div>
       __ComponentName__

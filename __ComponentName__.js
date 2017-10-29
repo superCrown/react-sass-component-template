@@ -19,6 +19,7 @@ class __ComponentName__ extends Component {
         __ComponentName__
       </div>
     );
+  }
 }
 /* ENDIF */
 

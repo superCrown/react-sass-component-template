@@ -14,10 +14,11 @@ const __ComponentName__ = () => (
 /* ENDIF *//* IF class*/
 class __ComponentName__ extends Component {
   render() {
-    <div>
-      __ComponentName__
-    </div>
-  )
+    return (
+      <div>
+        __ComponentName__
+      </div>
+    );
 }
 /* ENDIF */
 

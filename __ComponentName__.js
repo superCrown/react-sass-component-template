@@ -1,4 +1,3 @@
-/* IF !class */
 import React/* IF class */, { Component }/* ENDIF */ from 'react';
 /* ENDIF */
 import styles from './__ComponentName__.scss';

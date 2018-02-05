@@ -1,10 +1,8 @@
 import React/* IF class */, { Component }/* ENDIF */ from 'react';
-/* ENDIF */
-import styles from './__ComponentName__.scss';
 import classNames from 'classnames/bind';
+import styles from './__ComponentName__.scss';
 
 const cx = classNames.bind(styles);
-
 /* IF !class */
 const __ComponentName__ = () => (
   <div>
@@ -22,5 +20,4 @@ class __ComponentName__ extends Component {
   }
 }
 /* ENDIF */
-
 export default __ComponentName__;

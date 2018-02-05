@@ -1,5 +1,6 @@
 import React/* IF class */, { Component }/* ENDIF */ from 'react';
 import classNames from 'classnames/bind';
+
 import styles from './__ComponentName__.scss';
 
 const cx = classNames.bind(styles);
